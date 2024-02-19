@@ -17,7 +17,7 @@ _Module ITS Venture Design by Prof. Gajek_, 2021
 
 # Qualifikationsprofil
 - **P. Carstensen:** [Qualifikationsprofil]
-(https://pcarstensen.github.io/Qualifikationsprofil_Piet Carstensen.pdf)
+(https://pcarstensen.github.io/Qualifikationsprofil_Piet_Carstensen.pdf)
 
 # Friends
 - **T. Schuhmacher:** [Konzeption und prototypische Realisierung einer Microservice-Architektur mit Cloud-native Technologien](https://pcarstensen.github.io/Bacherlorarbeit_Torben-Schuhmacher.pdf)
