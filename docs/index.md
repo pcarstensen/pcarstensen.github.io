@@ -1,5 +1,5 @@
 I am a Student of computer science at the
-[Flensburg University of Applied Sciences](https://www.hs-flensburg.de). I finished my bachelor's degree in 2021 and will finish my master's degree in 2022.
+[Flensburg University of Applied Sciences](https://www.hs-flensburg.de). I finished my bachelor's degree in 2021 and will finished my master's degree in 2022.
 
 ## Publications
 - **P. Carstensen:** [Implementing an algorithm for swimming exercises](https://pcarstensen.github.io/Bachelorarbeit_PietCarstensen_630310.pdf)
