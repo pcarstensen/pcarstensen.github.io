@@ -16,5 +16,4 @@ _Module ITS Venture Design by Prof. Gajek_, 2021
   _Masterthesis Hochschule Flensburg_, 2022
 
 ## Qualifikationsprofil
-- **P. Carstensen:** [Qualifikationsprofil]
-(https://pcarstensen.github.io/Qualifikationsprofil_Piet_Carstensen.pdf)
+- **P. Carstensen:** [Qualifikationsprofil](https://pcarstensen.github.io/Qualifikationsprofil_Piet_Carstensen.pdf)
